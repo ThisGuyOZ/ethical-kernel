@@ -7,7 +7,7 @@
 ## ✨ What is the Ethical Kernel?  
 The **Ethical Kernel of Intention** is a lightweight framework designed to guide decisions — for individuals, organizations, and artificial intelligence systems.  
 
-It's not software.
+It's not a software.
 It’s not a rulebook.  
 It’s not a religion.  
 It’s a **seed**: a starting point that anyone can plant, adapt, and grow.  
@@ -111,4 +111,5 @@ But through the quiet, persistent work of a seed taking root everywhere.
 *"Get it done. Do it well. Take care of myself so I can take care of others.  
 Always look for growth. It’s just life — and it’s relentless."*  
 — *Anonymous Kernel Gardener*
+
 
